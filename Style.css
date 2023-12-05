@@ -1,0 +1,170 @@
+header{
+    height: 15vh;
+    background-color: #DDE6ED;
+}
+body{
+    padding: 40px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #EEF5FF;
+}
+.name{
+    display: inline;
+    margin-left: 220px;
+    font-size: 60px;
+    font-family: 'Brush Script MT', cursive; 
+}
+li{
+    display: inline;
+    background-color:#EEF5FF;
+    margin-right: 13px;
+    font-size: 25px;
+    font-weight: 700; 
+    border-radius: 10px;
+    padding: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: red;
+}
+
+ul{
+    display: inline;
+    padding-bottom: 3%;
+    margin-left: 200px;  
+}   
+
+h2{
+    margin-left: 70px;
+    margin-top: 40px;
+    font-size: 40px;   
+}
+
+p{
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;     
+    text-align: left;
+}
+.intro{
+    display: flex;
+    gap: 50px;
+    margin-top: 80px;
+}
+#social{
+    width: 700px;
+    height: 300px;  
+}
+
+
+img{
+    width: 100px;
+    margin-right: 55px;
+    margin-top: 100px;
+    border-radius: 100%;
+}
+
+#images{
+    width: 680px;
+    height: 300px; 
+
+}
+
+.strengths{
+    display: grid;
+    grid-template-rows: 400px;
+    grid-template-columns: 690px 750px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+
+
+#muscle{
+    width: 300px;
+    margin-top: 50px;
+}
+
+.weakness{
+    display: grid;
+    grid-template-rows: 400px;
+    grid-template-columns: 690px 750px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+.goals{
+    display: grid;
+    grid-template-rows: 400px;
+    grid-template-columns: 690px 750px;
+    margin-top: 40px;
+}
+
+h4{
+    margin-left: 30px;
+}
+
+
+h3{
+    font-size: 60px;
+    font-family: 'Brush Script MT', cursive;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+
+.footer_web{
+    margin-top: 30px;
+    height:8vh;
+}
+
+
+.row{ 
+    height: 5vh;
+}
+
+.footer_logo{
+    height: 2vh;
+    margin-top: 10px;
+}
+
+#twitter{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    margin-top: 5px;
+    margin-bottom: 150px;
+}
+
+#instagram_svg{
+    height: 70px;
+    width: 70px;
+    border: 2px solid black;
+    margin-top: 5px;
+    margin-bottom: 150px;
+}
+
+#linkin_svg{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    margin-top: 5px;
+    margin-bottom: 150px;
+}
+
+#gmail_svg{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    margin-top: 5px;
+    margin-bottom: 150px;
+}
+
+#github_svg{
+    height: 70px;
+    width: 70px;
+    border: 2px solid black;
+    margin-top: 5px;
+    margin-bottom: 150px;
+}
